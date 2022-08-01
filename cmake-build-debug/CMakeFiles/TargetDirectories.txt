@@ -1,0 +1,3 @@
+C:/Users/pjorg/Documents/GitHub/WordFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/pjorg/Documents/GitHub/WordFinder/cmake-build-debug/CMakeFiles/WordFinder.dir
+C:/Users/pjorg/Documents/GitHub/WordFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
